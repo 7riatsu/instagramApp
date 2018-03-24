@@ -14,6 +14,7 @@
 		7C99780A205CE01D00C258F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C997808205CE01D00C258F7 /* LaunchScreen.storyboard */; };
 		7C997815205CE01D00C258F7 /* InstagramAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C997814205CE01D00C258F7 /* InstagramAppTests.swift */; };
 		7C997820205CE01D00C258F7 /* InstagramAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C99781F205CE01D00C258F7 /* InstagramAppUITests.swift */; };
+		7C99782E205CE9C800C258F7 /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C99782D205CE9C800C258F7 /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7C99781B205CE01D00C258F7 /* InstagramAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C99781F205CE01D00C258F7 /* InstagramAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramAppUITests.swift; sourceTree = "<group>"; };
 		7C997821205CE01D00C258F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C99782D205CE9C800C258F7 /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		7C9977F3205CE01D00C258F7 = {
 			isa = PBXGroup;
 			children = (
+				7C99782D205CE9C800C258F7 /* cat.png */,
 				7C9977FE205CE01D00C258F7 /* InstagramApp */,
 				7C997813205CE01D00C258F7 /* InstagramAppTests */,
 				7C99781E205CE01D00C258F7 /* InstagramAppUITests */,
@@ -234,6 +237,7 @@
 			files = (
 				7C99780A205CE01D00C258F7 /* LaunchScreen.storyboard in Resources */,
 				7C997807205CE01D00C258F7 /* Assets.xcassets in Resources */,
+				7C99782E205CE9C800C258F7 /* cat.png in Resources */,
 				7C997805205CE01D00C258F7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
